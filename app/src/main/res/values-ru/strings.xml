@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_label">Счётчик APK Ajan</string>
+    <string name="accessibility_description">APK Ajan считает короткие видео (Reels, Shorts, TikTok) в выбранных тобой приложениях и показывает живой счётчик вверху экрана. Он не читает, не хранит и не отправляет твои сообщения или личные данные.</string>
+
+    <string name="language">Язык</string>
+    <string name="status_running">Отслеживание ВКЛ</string>
+    <string name="status_stopped">Отслеживание ВЫКЛ</string>
+    <string name="today_counter">Счётчик за сегодня</string>
+    <string name="next_warning_at">Следующее предупреждение: %1$d</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сбросить</string>
+    <string name="reset_confirm_title">Сбросить счётчик?</string>
+    <string name="reset_confirm_text">Счётчик за сегодня станет 0. История статистики сохранится.</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="saved">Сохранено</string>
+    <string name="back">Назад</string>
+
+    <string name="limit_title">Дневной лимит</string>
+    <string name="limit_hint">Предупреждение приходит на каждом кратном лимита (напр. 50, 100, 150).</string>
+
+    <string name="apps_title">Отслеживаемые приложения</string>
+    <string name="other_apps">Другие установленные приложения</string>
+    <string name="choose_apps">Выбрать приложения…</string>
+    <string name="not_installed">не установлено</string>
+    <string name="search_apps">Поиск приложений</string>
+    <string name="selected_count">Выбрано: %1$d</string>
+    <string name="loading">Загрузка…</string>
+
+    <string name="pomodoro">Помодоро</string>
+    <string name="pomodoro_work">Работа</string>
+    <string name="pomodoro_break">Перерыв</string>
+    <string name="pomodoro_idle">Не запущен</string>
+    <string name="pomodoro_work_minutes">Время работы (мин)</string>
+    <string name="pomodoro_break_minutes">Время перерыва (мин)</string>
+    <string name="pomodoro_start">Начать фокус</string>
+    <string name="pomodoro_stop">Остановить помодоро</string>
+    <string name="pomodoro_cycles">Завершено сессий: %1$d</string>
+    <string name="pomodoro_hint">Во время работы при открытии отслеживаемого приложения появится предупреждение.</string>
+
+    <string name="statistics">Статистика</string>
+    <string name="stats_last7">Последние 7 дней</string>
+    <string name="stats_today_total">Сегодня</string>
+    <string name="stats_week_total">Всего за 7 дней</string>
+    <string name="stats_daily_avg">В среднем за день</string>
+    <string name="stats_by_app">По приложениям — %1$s</string>
+    <string name="stats_no_data">За этот день видео нет.</string>
+    <string name="stats_day_total">Всего: %1$d</string>
+    <string name="stats_tap_hint">Нажми на столбец, чтобы увидеть разбивку за день.</string>
+    <string name="stats_limit_line">Лимит</string>
+
+    <string name="permissions_title">Настройка и разрешения</string>
+    <string name="perm_accessibility">Спец. возможности (подсчёт видео)</string>
+    <string name="perm_overlay">Поверх других приложений (счётчик сверху)</string>
+    <string name="perm_notifications">Уведомления (фоновая служба)</string>
+    <string name="perm_battery">Без оптимизации батареи (не выгружать)</string>
+    <string name="perm_grant">Разрешить</string>
+    <string name="perm_restricted_hint">Переключатель неактивен? Сведения о приложении → меню ⋮ → «Разрешить ограниченные настройки», затем повтори.</string>
+    <string name="open_app_info">О приложении</string>
+    <string name="need_accessibility">Сначала включи службу спец. возможностей.</string>
+
+    <string name="remote_title">Источник предупреждений</string>
+    <string name="remote_hint">Адрес JSON. При наличии интернета предупреждения загружаются отсюда на выбранном языке; иначе используются встроенные жёсткие сообщения.</string>
+    <string name="remote_url_label">URL JSON с сообщениями</string>
+
+    <string name="warning_title_first">ЛИМИТ ИСЧЕРПАН</string>
+    <string name="warning_title_next">Предупреждение №%1$d — всё ещё листаешь?</string>
+    <string name="warning_stats">Сегодня: %1$d видео. Лимит: %2$d.</string>
+    <string name="warning_ok">Понял</string>
+    <string name="warning_ok_wait">Прочитай… %1$d</string>
+    <string name="pomodoro_warning_title">🍅 ПОМОДОРО</string>
+
+    <string name="notif_channel_monitor">Фоновое отслеживание</string>
+    <string name="notif_channel_pomodoro">Помодоро</string>
+    <string name="notif_monitor_title">APK Ajan следит</string>
+    <string name="notif_monitor_text">Сегодня: %1$d / %2$d</string>
+    <string name="notif_work_done">Работа окончена! Перерыв %1$d мин.</string>
+    <string name="notif_break_done">Перерыв окончен. За работу!</string>
+</resources>
