@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_label">APK Ajan sayacı</string>
+    <string name="accessibility_description">APK Ajan, seçtiğin uygulamalarda izlediğin kısa videoları (Reels, Shorts, TikTok) sayar ve ekranın üstünde canlı sayaç gösterir. Mesajlarını veya kişisel içeriğini okumaz, saklamaz, göndermez.</string>
+
+    <string name="language">Dil</string>
+    <string name="status_running">Takip AÇIK</string>
+    <string name="status_stopped">Takip KAPALI</string>
+    <string name="today_counter">Bugünkü sayaç</string>
+    <string name="next_warning_at">Sonraki uyarı: %1$d</string>
+    <string name="start">Başlat</string>
+    <string name="stop">Durdur</string>
+    <string name="reset">Sıfırla</string>
+    <string name="reset_confirm_title">Sayaç sıfırlansın mı?</string>
+    <string name="reset_confirm_text">Bugünkü sayaç 0\'a döner. İstatistik geçmişi silinmez.</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="saved">Kaydedildi</string>
+    <string name="back">Geri</string>
+
+    <string name="limit_title">Günlük limit</string>
+    <string name="limit_hint">Limitin her katında uyarı gelir (ör. 50, 100, 150).</string>
+
+    <string name="apps_title">Takip edilecek uygulamalar</string>
+    <string name="other_apps">Diğer yüklü uygulamalar</string>
+    <string name="choose_apps">Uygulama seç…</string>
+    <string name="not_installed">yüklü değil</string>
+    <string name="search_apps">Uygulama ara</string>
+    <string name="selected_count">%1$d seçili</string>
+    <string name="loading">Yükleniyor…</string>
+
+    <string name="pomodoro">Pomodoro</string>
+    <string name="pomodoro_work">Çalışma</string>
+    <string name="pomodoro_break">Mola</string>
+    <string name="pomodoro_idle">Çalışmıyor</string>
+    <string name="pomodoro_work_minutes">Çalışma süresi (dk)</string>
+    <string name="pomodoro_break_minutes">Mola süresi (dk)</string>
+    <string name="pomodoro_start">Odaklanmayı başlat</string>
+    <string name="pomodoro_stop">Pomodoro\'yu durdur</string>
+    <string name="pomodoro_cycles">Tamamlanan seans: %1$d</string>
+    <string name="pomodoro_hint">Çalışma süresi boyunca takip edilen bir uygulamayı açarsan uyarı gelir.</string>
+
+    <string name="statistics">İstatistik</string>
+    <string name="stats_last7">Son 7 gün</string>
+    <string name="stats_today_total">Bugün</string>
+    <string name="stats_week_total">7 günlük toplam</string>
+    <string name="stats_daily_avg">Günlük ortalama</string>
+    <string name="stats_by_app">Uygulamaya göre — %1$s</string>
+    <string name="stats_no_data">Bu gün için kayıt yok.</string>
+    <string name="stats_day_total">Toplam: %1$d</string>
+    <string name="stats_tap_hint">Günün dağılımını görmek için bir sütuna dokun.</string>
+    <string name="stats_limit_line">Limit</string>
+
+    <string name="permissions_title">Kurulum ve izinler</string>
+    <string name="perm_accessibility">Erişilebilirlik hizmeti (videoları sayar)</string>
+    <string name="perm_overlay">Diğer uygulamaların üzerinde göster (üst sayaç)</string>
+    <string name="perm_notifications">Bildirimler (arka plan hizmeti)</string>
+    <string name="perm_battery">Pil optimizasyonu kapalı (kapanmasın)</string>
+    <string name="perm_grant">İzin ver</string>
+    <string name="perm_restricted_hint">Erişilebilirlik anahtarı gri mi? Uygulama bilgisi → ⋮ menü → \"Kısıtlanmış ayarlara izin ver\", sonra tekrar dene.</string>
+    <string name="open_app_info">Uygulama bilgisi</string>
+    <string name="need_accessibility">Önce erişilebilirlik hizmetini aç.</string>
+
+    <string name="remote_title">Uyarı mesajı kaynağı</string>
+    <string name="remote_hint">JSON adresi. İnternet varsa uyarılar seçili dilde buradan çekilir; yoksa uygulamadaki hazır sert mesajlar kullanılır.</string>
+    <string name="remote_url_label">Mesaj JSON adresi</string>
+
+    <string name="warning_title_first">LİMİT DOLDU</string>
+    <string name="warning_title_next">%1$d. uyarı — hâlâ mı kaydırıyorsun?</string>
+    <string name="warning_stats">Bugün: %1$d video. Limit: %2$d.</string>
+    <string name="warning_ok">Anladım</string>
+    <string name="warning_ok_wait">Oku… %1$d</string>
+    <string name="pomodoro_warning_title">🍅 POMODORO</string>
+
+    <string name="notif_channel_monitor">Arka plan takibi</string>
+    <string name="notif_channel_pomodoro">Pomodoro</string>
+    <string name="notif_monitor_title">APK Ajan izliyor</string>
+    <string name="notif_monitor_text">Bugün: %1$d / %2$d</string>
+    <string name="notif_work_done">Çalışma bitti! %1$d dk mola ver.</string>
+    <string name="notif_break_done">Mola bitti. İşe dön!</string>
+</resources>
