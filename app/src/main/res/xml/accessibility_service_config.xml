@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  - typeViewScrolled: Reels/Shorts/TikTok akışında yeni videoya geçiş
+  - typeWindowStateChanged: hangi uygulamanın önde olduğunu bilmek (sayaç göster/gizle, Pomodoro uyarısı)
+  - packageNames verilmedi: kullanıcı "diğer uygulamalar"dan seçim yapabildiği için filtre kodda yapılır.
+-->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeViewScrolled|typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds|flagIncludeNotImportantViews"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/accessibility_description"
+    android:notificationTimeout="100"
+    android:settingsActivity="com.apkajan.app.ui.MainActivity" />
