@@ -1,0 +1,30 @@
+{
+  "warnings": {
+    "az": [
+      "Yenə buradasan? {count} video. Limitin {limit} idi. Utan bir az!",
+      "Barmağın yorulmadı, beynin yorulmalıdır. Bağla və qalx!",
+      "Bu videolar sənə heç nə qazandırmır. Sən isə vaxtını itirirsən."
+    ],
+    "tr": [
+      "Yine mi buradasın? Sayaç {count}, limitin {limit} idi. Biraz utan!",
+      "Parmağın yorulmadı ama beynin yoruldu. Kapat ve kalk!",
+      "Bu videolar sana hiçbir şey kazandırmıyor. Sen ise zamanını kaybediyorsun."
+    ],
+    "en": [
+      "Back again? {count} videos. Your limit was {limit}. Have some shame!",
+      "Your thumb isn't tired, but your brain is. Close it and get up!",
+      "These videos give you nothing. You're just losing time."
+    ],
+    "ru": [
+      "Опять здесь? {count} видео. Лимит был {limit}. Имей совесть!",
+      "Палец не устал, а мозг устал. Закрывай и вставай!",
+      "Эти видео ничего тебе не дают. Ты просто теряешь время."
+    ]
+  },
+  "pomodoro": {
+    "az": "Pomodoro işləyir, sən işləmirsən!",
+    "tr": "Pomodoro çalışıyor, sen çalışmıyorsun!",
+    "en": "Pomodoro is running, you're not working!",
+    "ru": "Помодоро идёт, а ты не работаешь!"
+  }
+}
