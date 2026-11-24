@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Varsayılan (EN). Diğer diller: values-az, values-tr, values-ru -->
+<resources>
+    <string name="app_name" translatable="false">APK Ajan</string>
+    <string name="accessibility_label">APK Ajan counter</string>
+    <string name="accessibility_description">APK Ajan counts short videos (Reels, Shorts, TikTok) in the apps you choose and shows a live counter on top of the screen. It does not read, store or send your messages or personal content.</string>
+
+    <string name="language">Language</string>
+    <string name="status_running">Tracking is ON</string>
+    <string name="status_stopped">Tracking is OFF</string>
+    <string name="today_counter">Today\'s counter</string>
+    <string name="next_warning_at">Next warning at %1$d</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="reset_confirm_title">Reset the counter?</string>
+    <string name="reset_confirm_text">Today\'s counter goes back to 0. Statistics history is kept.</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="back">Back</string>
+
+    <string name="limit_title">Daily limit</string>
+    <string name="limit_hint">A warning appears at every multiple of the limit (e.g. 50, 100, 150).</string>
+
+    <string name="apps_title">Apps to track</string>
+    <string name="other_apps">Other installed apps</string>
+    <string name="choose_apps">Choose apps…</string>
+    <string name="not_installed">not installed</string>
+    <string name="search_apps">Search apps</string>
+    <string name="selected_count">%1$d selected</string>
+    <string name="loading">Loading…</string>
+
+    <string name="pomodoro">Pomodoro</string>
+    <string name="pomodoro_work">Focus</string>
+    <string name="pomodoro_break">Break</string>
+    <string name="pomodoro_idle">Not running</string>
+    <string name="pomodoro_work_minutes">Focus time (min)</string>
+    <string name="pomodoro_break_minutes">Break time (min)</string>
+    <string name="pomodoro_start">Start focus</string>
+    <string name="pomodoro_stop">Stop Pomodoro</string>
+    <string name="pomodoro_cycles">Completed sessions: %1$d</string>
+    <string name="pomodoro_hint">During focus time, opening a tracked app triggers a warning.</string>
+
+    <string name="statistics">Statistics</string>
+    <string name="stats_last7">Last 7 days</string>
+    <string name="stats_today_total">Today</string>
+    <string name="stats_week_total">7-day total</string>
+    <string name="stats_daily_avg">Daily average</string>
+    <string name="stats_by_app">By app — %1$s</string>
+    <string name="stats_no_data">No videos counted on this day.</string>
+    <string name="stats_day_total">Total: %1$d</string>
+    <string name="stats_tap_hint">Tap a bar to see that day\'s breakdown.</string>
+    <string name="stats_limit_line">Limit</string>
+
+    <string name="permissions_title">Setup &amp; permissions</string>
+    <string name="perm_accessibility">Accessibility service (counts videos)</string>
+    <string name="perm_overlay">Display over other apps (counter on top)</string>
+    <string name="perm_notifications">Notifications (background service)</string>
+    <string name="perm_battery">No battery optimization (keeps it alive)</string>
+    <string name="perm_grant">Allow</string>
+    <string name="perm_restricted_hint">Accessibility switch greyed out? Open App info → ⋮ menu → \"Allow restricted settings\", then try again.</string>
+    <string name="open_app_info">App info</string>
+    <string name="need_accessibility">Turn on the accessibility service first.</string>
+
+    <string name="remote_title">Warning messages source</string>
+    <string name="remote_hint">JSON address. When online, warnings are loaded from here in the chosen language; otherwise the built-in harsh messages are used.</string>
+    <string name="remote_url_label">Messages JSON URL</string>
+
+    <string name="warning_title_first">LIMIT REACHED</string>
+    <string name="warning_title_next">Warning #%1$d — still scrolling?</string>
+    <string name="warning_stats">Today: %1$d videos. Limit: %2$d.</string>
+    <string name="warning_ok">Got it</string>
+    <string name="warning_ok_wait">Read it… %1$d</string>
+    <string name="pomodoro_warning_title">🍅 POMODORO</string>
+
+    <string name="notif_channel_monitor">Background tracking</string>
+    <string name="notif_channel_pomodoro">Pomodoro</string>
+    <string name="notif_monitor_title">APK Ajan is watching</string>
+    <string name="notif_monitor_text">Today: %1$d / %2$d</string>
+    <string name="notif_work_done">Focus done! Take a %1$d min break.</string>
+    <string name="notif_break_done">Break is over. Back to work!</string>
+</resources>
