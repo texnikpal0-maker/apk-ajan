@@ -3,28 +3,112 @@
     "az": [
       "Yenə buradasan? {count} video. Limitin {limit} idi. Utan bir az!",
       "Barmağın yorulmadı, beynin yorulmalıdır. Bağla və qalx!",
-      "Bu videolar sənə heç nə qazandırmır. Sən isə vaxtını itirirsən."
+      "Bu videolar sənə heç nə qazandırmır. Sən isə vaxtını itirirsən.",
+      "Alqoritm səni sevir, bəs sən özünü sevirsən? {count}/{limit} doldu.",
+      "Bir 'son video' dedin, saat yarım keçdi. Klassik ssenari.",
+      "Gözlərin qurumadı? Ekranı söndür, işin gözləyir.",
+      "Səhifəni yeniləməklə uğur gəlmir. İşə qayıt!",
+      "{limit} limit qoymuşdun ki, özünü saxlayasan. İndi {count}-dadır. Sözünün ağası ol!",
+      "Başqaları planını bitirir, sən hələ də növbəti videonu gözləyirsən.",
+      "Telefonu yerə qoy, beyninə biraz hava ver.",
+      "Bu sürətlə {count} videodan sonra ancaq yorğunluq qalacaq. Dayan!",
+      "Özünə verdiyin söz bu qədər ucuzdur? Limit {limit} idi, indi {count}.",
+      "Ekranın işığı üzünə vurur, amma gələcəyini aydınlatmır.",
+      "Bir az da baxsan, yaddaşında yer qalmayacaq. Çıx!"
     ],
     "tr": [
       "Yine mi buradasın? Sayaç {count}, limitin {limit} idi. Biraz utan!",
       "Parmağın yorulmadı ama beynin yoruldu. Kapat ve kalk!",
-      "Bu videolar sana hiçbir şey kazandırmıyor. Sen ise zamanını kaybediyorsun."
+      "Bu videolar sana hiçbir şey kazandırmıyor. Sen ise zamanını kaybediyorsun.",
+      "Algoritma seni seviyor da sen kendini seviyor musun? {count}/{limit} oldu.",
+      "'Son bir video' dedin, bir saat uçtu gitti. Klasik.",
+      "Gözlerin yorulmadı mı? Ekranı kapat, yapılacak işler var.",
+      "Kaydırmakla hedefler gerçekleşmiyor. İşe dön!",
+      "Kendini tutmak için limitin {limit} idi, şu an {count}. Sözünün eri ol!",
+      "Başkaları işini bitiriyor, sen hâlâ bir sonraki videoyu bekliyorsun.",
+      "Telefonu bırak, kafana biraz hava aldır.",
+      "Bu hızla {count} videodan sonra elde kalan tek şey yorgunluk olacak. Dur!",
+      "Kendine verdiğin söz bu kadar mıydı? Limit {limit}, şu an {count}.",
+      "Ekran ışığı yüzüne vuruyor ama geleceğini aydınlatmıyor.",
+      "Biraz daha bakarsan kafanda yer kalmayacak. Kapat!"
     ],
     "en": [
       "Back again? {count} videos. Your limit was {limit}. Have some shame!",
       "Your thumb isn't tired, but your brain is. Close it and get up!",
-      "These videos give you nothing. You're just losing time."
+      "These videos give you nothing. You're just losing time.",
+      "The algorithm loves you, but do you love yourself? {count}/{limit} reached.",
+      "You said 'one last video' and lost an hour. Classic.",
+      "Aren't your eyes dry yet? Close the tab and get back to work.",
+      "Scrolling won't build your future. Lock in!",
+      "You set a limit of {limit} for a reason. You're at {count}. Stick to it!",
+      "Others are finishing their tasks while you wait for the next clip.",
+      "Put the phone down and give your brain some air.",
+      "At this rate, {count} videos will only leave you exhausted. Stop!",
+      "Is your word to yourself really that cheap? Limit was {limit}, now {count}.",
+      "The screen lights up your face, not your future.",
+      "Keep going and there won't be any room left in your head. Close it!"
     ],
     "ru": [
       "Опять здесь? {count} видео. Лимит был {limit}. Имей совесть!",
       "Палец не устал, а мозг устал. Закрывай и вставай!",
-      "Эти видео ничего тебе не дают. Ты просто теряешь время."
+      "Эти видео ничего тебе не дают. Ты просто теряешь время.",
+      "Алгоритм тебя любит, а ты себя любишь? Уже {count}/{limit}.",
+      "Сказал «ещё одно видео» — и потерял час. Классика.",
+      "Глаза ещё не устали? Закрывай и возвращайся к делу.",
+      "Листанием цели не достигаются. За работу!",
+      "Лимит был {limit}, а уже {count}. Держи слово перед собой!",
+      "Другие закрывают задачи, пока ты ждёшь следующий ролик.",
+      "Отложи телефон, дай мозгу проветриться.",
+      "В таком темпе после {count} видео останется только усталость. Хватит!",
+      "Твоё слово самому себе так дёшево стоит? Лимит {limit}, сейчас {count}.",
+      "Экран освещает лицо, но не твоё будущее.",
+      "Ещё чуть-чуть — и в голове не останется места. Закрывай!"
     ]
   },
   "pomodoro": {
-    "az": "Pomodoro işləyir, sən işləmirsən!",
-    "tr": "Pomodoro çalışıyor, sen çalışmıyorsun!",
-    "en": "Pomodoro is running, you're not working!",
-    "ru": "Помодоро идёт, а ты не работаешь!"
+    "az": [
+      "Pomodoro işləyir, sən işləmirsən!",
+      "Taymer səndən çox işləyir. Fokuslan!",
+      "Fasilə vaxtı deyil, iş vaxtıdır. Ekranı bağla!",
+      "Saniyələr axır, işin isə yerində sayır.",
+      "Bu dəqiqələr sənin fokus vaxtındır, lent vaxtı deyil.",
+      "Pomodoro bitəndə hələ də burda olsan, ayıb olar.",
+      "Dərin nəfəs al, sekmanı bağla və işə başla.",
+      "İndi işləsən, fasilədə vicdanın rahat olacaq.",
+      "Taymer öz işini görür, növbə səndədir."
+    ],
+    "tr": [
+      "Pomodoro çalışıyor, sen çalışmıyorsun!",
+      "Sayaç senden daha çok çalışıyor. Odaklan!",
+      "Mola zamanı değil, çalışma zamanı. Kapat şunu!",
+      "Saniyeler akıyor ama işin yerinde sayıyor.",
+      "Bu dakikalar odaklanma zamanı, kaydırma zamanı değil.",
+      "Pomodoro bitince hâlâ buradaysan yazık olur.",
+      "Derin nefes al, sekmeyi kapat ve işe koyul.",
+      "Şimdi çalışırsan molada kafan rahat eder.",
+      "Sayaç işini yapıyor, sıra sende."
+    ],
+    "en": [
+      "Pomodoro is running, you're not working!",
+      "The timer is working harder than you. Focus!",
+      "It's focus time, not scroll time. Close it!",
+      "Seconds are ticking while your task sits untouched.",
+      "These minutes are for deep focus, not endless scrolling.",
+      "It'd be a shame to still be here when the Pomodoro ends.",
+      "Take a breath, close the tab, and get started.",
+      "Work now so you can actually enjoy your break later.",
+      "The timer's doing its job—your turn."
+    ],
+    "ru": [
+      "Помодоро идёт, а ты не работаешь!",
+      "Таймер работает усерднее тебя. Сфокусируйся!",
+      "Сейчас время работы, а не ленты. Закрывай!",
+      "Секунды идут, а задача стоит на месте.",
+      "Эти минуты для фокуса, а не для бесконечного скролла.",
+      "Будет обидно остаться здесь, когда таймер дотикает.",
+      "Выдохни, закрой вкладку и приступай к делу.",
+      "Поработай сейчас, чтобы спокойно отдохнуть на перерыве.",
+      "Таймер своё дело делает — теперь твоя очередь."
+    ]
   }
 }
